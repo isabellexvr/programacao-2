@@ -16,7 +16,7 @@ public class Product{
     }
 }
 
-public class Main {
+public class receitaFederal.Main {
     public static void main(String[] args) {
         Product product = new Product("biscoito", 19,25, 10);
     }
