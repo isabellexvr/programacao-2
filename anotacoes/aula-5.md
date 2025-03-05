@@ -16,7 +16,7 @@ class Cachorro extends Animal {
     }
 }
 
-public class Main {
+public class bank.Main {
     public static void main(String[] args) {
         Animal animal = new Cachorro();
         animal.fazerSom(); // Saída: Au Au!
@@ -45,7 +45,7 @@ class Cachorro extends Animal {
     }
 }
 
-public class Main {
+public class bank.Main {
     public static void main(String[] args) {
         Animal animal = new Cachorro();
 
